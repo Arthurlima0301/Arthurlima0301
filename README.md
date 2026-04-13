@@ -3,7 +3,7 @@ Bem-vindo ao meu perfil GitHub! Sou um Engenheiro de Software apaixonado por des
 
 ## 🚀 Sobre Mim
 - 💻 Engenheiro de Software com foco em Backend e Sistemas Web
-- 🗄️ Especialista em arquitetura e otimização de bancos de dados
+- 🗄️  Arquitetura e otimização de bancos de dados
 - 🌱 Sempre aprendendo e explorando novas tecnologias
 - 🤝 Aberto a colaborações em projetos desafiadores
 - 📍 São Paulo, SP - Brasil
