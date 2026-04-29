@@ -1,40 +1,36 @@
-# 👋 Olá, eu sou Arthur Lima
-Bem-vindo ao meu perfil GitHub! Sou um Engenheiro de Software apaixonado por desenvolver soluções robustas e escaláveis. Especializado em desenvolvimento backend, arquitetura de bancos de dados e construção de sistemas web complexos.
+<h1 align="center">Hi 👋, I'm Arthur</h1>
+<h3 align="center">Backend Developer focused on Laravel</h3>
 
-## 🚀 Sobre Mim
-- 💻 Engenheiro de Software com foco em Backend e Sistemas Web
-- 🗄️  Arquitetura e otimização de bancos de dados
-- 🌱 Sempre aprendendo e explorando novas tecnologias
-- 🤝 Aberto a colaborações em projetos desafiadores
-- 📍 São Paulo, SP - Brasil
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Laravel+Developer&center=true&width=500&height=50">
+  </a>  
+</p>
 
-## 💼 Experiência
-- **Bancos de Dados**: Design de estrutura de dados
-- **Sistemas Web**: Desenvolvimento de aplicações web completas
-- **Sistemas Administrativos**: ERP e softwares de gestão empresarial
 
-## 🛠️ Stack Técnico
-**Backend**: PHP, Laravel  
-**Frontend**: HTML, Tailwind CSS, Alpine.js, JavaScript  
-**Bancos de Dados**: MySQL  
-**Ferramentas**: Git  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,tailwind,git,vscode" />
+</p>
 
-## ⭐ Projetos em Destaque
-Em breve! Estou desenvolvendo projetos interessantes em Sistemas Administrativos e ERPs que em breve estarão disponíveis aqui.
 
-## 🌐 Conecte-se Comigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/arthur-lima-2b68342bb) - Conecte-se comigo profissionalmente
-- 📧 Email: arthur.limasilva2008@gmail.com
-- 🌍 Aberto para conversas sobre projetos e oportunidades
+## 🌐 Connect with me
 
-## 📈 Atualmente Trabalhando Em
-- 🔨 Desenvolvimento de Sistemas Administrativos
-- 📚 Aprofundando conhecimentos em otimização de bancos de dados
-- 🎯 Objetivo: Contribuir com soluções enterprise de alta qualidade
+<p align="center">
+   <a href="https://github.com/Arthurlima0301">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/seu-linkedin-aqui">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-## 💡 Minha Paixão
-Sou fascinado por:
-- Sistemas web escaláveis e bem arquitetados
-- Otimização de performance em bancos de dados
-- Desenvolvimento de softwares administrativos
-- Código limpo e boas práticas de engenharia
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthurlima0301&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurlima0301&theme=tokyonight" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurlima0301&layout=compact&theme=tokyonight" />
+</p>
