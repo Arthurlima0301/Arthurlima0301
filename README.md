@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,tailwind,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,laravel,mysql,tailwind,git,docker,vscode" />
 </p>
 
 
